@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+char name[50];
+Printf("Enter your name");
+scanf("%d",name);
+printf("The name we have typed is:%s"
+,name);
+return 0;
+}
